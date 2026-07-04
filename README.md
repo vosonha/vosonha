@@ -46,16 +46,39 @@ Hobbies: Managing VPS, coding while listening to music
 
 ```
 
-<div>
-<h2 align="center"> 🔎Knowledge📖 </h2>
+<div align="center">
+  <h2 align="center"> 🔎 Knowledge & Expertise 📖 </h2>
+  <br>
 </div>
-<div align = "center">
-<p align = "justify">I am Vo Son Ha, a technology enthusiast passionate about software development, cloud technologies, AI tools, and system administration. I enjoy building web applications, managing VPS servers, automating workflows, and exploring modern technologies that improve productivity and efficiency.
-My primary skills include JavaScript, HTML, CSS, Bash, Linux, Git, GitHub Actions, and cloud deployment platforms such as Vercel and Railway. I am also actively learning automation with n8n, server management, and modern development workflows.
-I have a strong interest in artificial intelligence and frequently explore tools such as ChatGPT, Claude, Gemini, and DeepSeek to enhance development and problem-solving processes.
-Beyond technology, I enjoy coding while listening to music, managing personal projects, experimenting with new tools, and continuously expanding my knowledge. I believe in learning by building, sharing ideas, and improving every day.
-Feel free to explore my repositories and projects. Feedback, suggestions, and collaboration are always welcome.
- <br></p>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">👨‍💻 About Me</h3>
+        <p align="justify">I am <b>Vo Son Ha</b>, a technology enthusiast passionate about software development, cloud technologies, AI tools, and system administration. I believe in learning by building, sharing ideas, and improving every day.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">☁️ Core Focus</h3>
+        <p align="justify">I enjoy building web applications, managing <b>VPS servers</b>, automating workflows, and exploring modern technologies that improve productivity. I am also actively learning automation with <b>n8n</b> and modern server management.</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <h3 align="center">🛠️ Tech Stack</h3>
+        <p align="justify">My primary skills include <b>JavaScript, HTML, CSS, Bash, Linux, Git,</b> and <b>GitHub Actions</b>. I focus on seamless cloud deployment using platforms such as <b>Vercel</b> and <b>Railway</b>.</p>
+      </td>
+      <td valign="top">
+        <h3 align="center">🤖 AI & Hobbies</h3>
+        <p align="justify">I frequently explore AI tools like <b>ChatGPT, Claude, Gemini,</b> and <b>DeepSeek</b> to enhance development and problem-solving processes. Beyond tech, I enjoy coding while listening to music and experimenting with new tools.</p>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <p align="center">
+    <i>Feel free to explore my repositories and projects. Feedback, suggestions, and collaboration are always welcome! 🚀</i>
+  </p>
+</div>
 <p align = "center">
      <a href="https://skillicons.dev">
         <img style="margin: 10px"src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,latex,py,swift,c,cpp,css,html,tensorflow,aws&perline=8"alt="My Skills"/> 
