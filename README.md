@@ -51,13 +51,9 @@ Hobbies: Managing VPS, coding while listening to music
 </div>
 <div align = "center">
 <p align = "justify">I am Vo Son Ha, a technology enthusiast passionate about software development, cloud technologies, AI tools, and system administration. I enjoy building web applications, managing VPS servers, automating workflows, and exploring modern technologies that improve productivity and efficiency.
-
 My primary skills include JavaScript, HTML, CSS, Bash, Linux, Git, GitHub Actions, and cloud deployment platforms such as Vercel and Railway. I am also actively learning automation with n8n, server management, and modern development workflows.
-
 I have a strong interest in artificial intelligence and frequently explore tools such as ChatGPT, Claude, Gemini, and DeepSeek to enhance development and problem-solving processes.
-
 Beyond technology, I enjoy coding while listening to music, managing personal projects, experimenting with new tools, and continuously expanding my knowledge. I believe in learning by building, sharing ideas, and improving every day.
-
 Feel free to explore my repositories and projects. Feedback, suggestions, and collaboration are always welcome.
  <br></p>
 <p align = "center">
