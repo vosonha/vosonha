@@ -25,7 +25,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.ibb.co/35JzCV4g/itsukigammer.png" width="182px"/>
+<img align="left" src="img/itsukigammer.png" width="182px"/> 
 
 ```csharp
 My Profile v1.10: 復興「ふっこう」
@@ -99,23 +99,17 @@ Feel free to explore my repositories and projects. Feedback, suggestions, and co
 ![](https://raw.githubusercontent.com/vosonha/vosonha/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
-<h2 align="center">📝 Contact Me 📝</h2>
-
+<h2 align ="center"> 📝 Contact me 📝</h2>
+<br> 
 <div align="center">
-
-<a href="https://github.com/vosonha">
-    <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/vosonha" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://t.me/vosonha15" target="_blank">
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  <br><img align="center"src = "img/hatsunemikudrop.gif" width = "500"/>
+</div>  
 
-<a href="https://t.me/vosonha15">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-<br><br>
-
-<img src="https://i.ibb.co/ZRkY0gtT/hatsunemikudrop.gif" width="500" alt="Hatsune Miku" />
-
-</div>
 
 
 </div>  
@@ -133,5 +127,4 @@ Feel free to explore my repositories and projects. Feedback, suggestions, and co
 
 <p align="center">
 ⠀⠀⠀⠀⠀<img src="img/vocaloidchibi.png">
-</p># vosonha
-# vosonha
+</p>
