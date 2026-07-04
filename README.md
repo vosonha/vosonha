@@ -142,7 +142,7 @@ Hobbies: Managing VPS, coding while listening to music
 <br>
 
     
-<h1 align="center">Support Me 🎧🎤  </h1>
+<h1 align="center">Thanks For Visiting 🎧🎤  </h1>
 
 <p align="center">
 ⠀⠀⠀⠀⠀<img src="img/vocaloidchibi.png">
