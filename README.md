@@ -107,7 +107,7 @@ Feel free to explore my repositories and projects. Feedback, suggestions, and co
 </a>
 <a href="https://t.me/vosonha15" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  <br><img align="center"src = "img/hatsunemikudrop.gif" width = "500"/>
+</a>  <br><img align="center"src = "https://i.ibb.co/ZRkY0gtT/hatsunemikudrop.gif" width = "500"/>
 </div>  
 
 
