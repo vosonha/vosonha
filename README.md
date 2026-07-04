@@ -92,13 +92,6 @@ Feel free to explore my repositories and projects. Feedback, suggestions, and co
 <br>
 
 
-
-<h1 align="center"> My contributions game 🐍🎮</h1>
-
-![](https://raw.githubusercontent.com/vosonha/vosonha/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/vosonha/vosonha/output/github-contribution-grid-snake.svggh-light-mode-only)
-<br>
-
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
