@@ -25,7 +25,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://ibb.co/Cpr2H4mR" width="182px"/>
+<img align="left" src="https://i.ibb.co/35JzCV4g/itsukigammer.png" width="182px"/>
 
 ```csharp
 My Profile v1.10: 復興「ふっこう」
