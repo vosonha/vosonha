@@ -102,15 +102,18 @@ Feel free to explore my repositories and projects. Feedback, suggestions, and co
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
-<a href="https://github.com/vosonha" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/vosonha15" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-<br>
-<img align="center" src="https://i.ibb.co/ZRkY0gtT/hatsunemikudrop.gif" width="500" />
-</div>  
+    <a href="https://github.com/vosonha" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
 
+    <a href="https://t.me/vosonha15" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+
+    <br><br>
+
+    <img src="https://i.ibb.co/ZRkY0gtT/hatsunemikudrop.gif" width="500" alt="GIF" />
+</div>
 
 
 </div>  
