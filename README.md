@@ -99,20 +99,22 @@ Feel free to explore my repositories and projects. Feedback, suggestions, and co
 ![](https://raw.githubusercontent.com/vosonha/vosonha/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
-<h2 align ="center"> 📝 Contact me 📝</h2>
-<br> 
+<h2 align="center">📝 Contact Me 📝</h2>
+
 <div align="center">
-    <a href="https://github.com/vosonha" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
 
-    <a href="https://t.me/vosonha15" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
+<a href="https://github.com/vosonha">
+    <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-    <br><br>
+<a href="https://t.me/vosonha15">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
 
-    <img src="https://i.ibb.co/ZRkY0gtT/hatsunemikudrop.gif" width="500" alt="GIF" />
+<br><br>
+
+<img src="https://i.ibb.co/ZRkY0gtT/hatsunemikudrop.gif" width="500" alt="Hatsune Miku" />
+
 </div>
 
 
