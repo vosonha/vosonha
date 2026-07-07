@@ -19,32 +19,95 @@
 </div>
 <br>
 
-<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+<h2 align="center"> ⚡ About Me v2.0 ⚡ </h2>
 
 ```zsh
-> neofetch
+> fastfetch
 ```
 
-<img align="left" src="img/itsukigammer.png" width="182px"/> 
+<img align="left" src="img/itsukigammer.png" width="200px"/>
 
 ```csharp
-My Profile v1.10: 復興「ふっこう」
--------------------------------
-Name: Võ Sơn Hà 「ヴォ・ソン・ハ」
-Username: vosonha15 「山川」
-WhoamI: Tech Project Manager & Cloud Enthusiast. Also a gamer.
-OS: iOS / Linux
-Shell: zsh 5.9
-Discord: @0xvsh | GitHub: @vosonha
-Loves: AI Tech (ChatGPT, Claude, Gemini) 🤖, videogames 🎮, cloud deployment ☁️
-Pronouns: He/Him
-Location: Da Nang, Vietnam 🇻🇳
-Languages: C/C++, Python, JavaScript, HTML, CSS, Bash, Shell Script. (Well sometimes I remember those languages :v) 
-Learning: Js, React, Node.js, Vue.js, Django, ML, AI. (So much to learn and so little time :v)
-FavouritePlatforms: Vercel, Railway, GitHub Actions
-Hobbies: Managing VPS, coding while listening to music
+┌──────────────────────────────────────────────────────────────┐
+│                   PROFILE v2.0 「復興」                      │
+└──────────────────────────────────────────────────────────────┘
 
+👤 Name            : Võ Sơn Hà 「ヴォ・ソン・ハ」
+🏷️ Username        : vosonha15 「山川」
+💼 Role            : Tech Project Manager | Cloud Enthusiast
+🎮 Side Quest      : Gamer | Open Source Explorer
+
+───────────────────────────────────────────────────────────────
+
+🖥️ System
+├─ OS              : Linux / iOS
+├─ Shell           : zsh 5.9
+├─ Editor          : VS Code
+├─ Terminal        : Warp / iTerm2 / Linux Terminal
+└─ Environment     : Docker • Git • VPS • Cloud
+
+───────────────────────────────────────────────────────────────
+
+🌐 Contacts
+├─ Discord         : @0xvsh
+├─ GitHub          : @vosonha
+└─ Location        : Da Nang, Vietnam 🇻🇳
+
+───────────────────────────────────────────────────────────────
+
+💻 Languages
+├─ C / C++
+├─ Python
+├─ JavaScript
+├─ HTML / CSS
+└─ Bash / Shell Script
+
+───────────────────────────────────────────────────────────────
+
+📚 Currently Learning
+├─ React.js
+├─ Node.js
+├─ Vue.js
+├─ Django
+├─ Machine Learning
+└─ Artificial Intelligence
+
+───────────────────────────────────────────────────────────────
+
+☁️ Favourite Platforms
+├─ GitHub
+├─ GitHub Actions
+├─ Vercel
+├─ Railway
+└─ Linux VPS
+
+───────────────────────────────────────────────────────────────
+
+🤖 AI Stack
+├─ ChatGPT
+├─ Claude
+├─ Gemini
+└─ Open Source Models
+
+───────────────────────────────────────────────────────────────
+
+🎵 Hobbies
+├─ Managing VPS
+├─ Building Side Projects
+├─ Gaming
+├─ Listening to Music
+└─ Exploring New Technologies
+
+───────────────────────────────────────────────────────────────
+
+⚡ Motto
+"Keep Building. Keep Learning. Keep Shipping."
+
+Status: Online 🟢
+Version: 2.0.0
+Last Update: 2026
 ```
+
 
 <div align="center">
   <h2 align="center"> 🔎 Knowledge & Expertise 📖 </h2>
